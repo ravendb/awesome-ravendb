@@ -24,3 +24,7 @@ A collection of awesome RavenDB resources
 
 * [https://github.com/brickpile/brickpile](https://github.com/brickpile/brickpile) - lightweight CMS built on RavenDB and ASP.NET MVC 5
 
+## DevOps
+
+* [Ansible RavenDB Role](https://github.com/pogosoftware/ansible-role-ravendb)
+
