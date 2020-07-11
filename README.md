@@ -21,10 +21,26 @@ A collection of awesome RavenDB resources
 ## Asp.Net
 
 * [RavenDB.AspNet.Identity](https://github.com/JudahGabriel/RavenDB.AspNet.Identity) - Identity provider for full .NET framework
+* [IdentityServer4.RavenDB](https://github.com/TheKeyblader/IdentityServer4.RavenDB)
 
 ## Service Bus
 
 * [Rebus.RavenDb](https://github.com/rebus-org/Rebus.RavenDb) - RavenDB persistence for Rebus
+
+## Repository
+
+* [SharpRepository](https://github.com/SharpRepository/SharpRepository) - C# Generic Repository for use with Entity Framework, RavenDB and more with built-in caching options
+
+## Libraries and Frameworks
+
+* [RavenDB-NodaTime](https://github.com/ryanheath/RavenDB-NodaTime) - Noda Time support for RavenDB
+* [Quartz.NET-RavenDB](https://github.com/ravendb/quartznet-RavenDB) - RavenDB JobStore support for Quartz.NET scheduler
+* [NServiceBus.RavenDB](https://github.com/Particular/NServiceBus.RavenDB) - The official NServiceBus persistence implementation for RavenDB
+* [NEventStore.Persistence.RavenDB](https://github.com/NEventStore/NEventStore.Persistence.RavenDB) - RavenDB Persistence Engine for NEventStore
+* [VidyanoRavenSample](https://github.com/2sky/VidyanoRavenSample) - Sample application using Vidyano and RavenDB
+* [orleans-ravendb](https://github.com/sjefvanleeuwen/orleans-ravendb) - Orleans Storage Providers for RavenDB
+* [RAW Stack](https://github.com/mauricedb/RawStack) - RavenDB, AngularJS and ASP.NET WebAPI
+* [Schedule.io](https://github.com/typinghard/Schedule.io) - calendar implementations
 
 ## Content Management Systems
 
@@ -38,3 +54,24 @@ A collection of awesome RavenDB resources
 
 * [Throttling Outgoing Requests in Distributed Scenarios Using RavenDB](https://github.com/kamranayub/ravendb-throttling-outgoing-requests)
 
+## Applications
+
+* [Snittlistan](https://github.com/dlidstrom/Snittlistan) - a small bowling network with statistics
+
+---
+
+## Languages
+
+### PHP  
+
+* [Corax](https://github.com/Realitaetsverlust/Corax) - RavenDB REST-API for PHP
+
+### F#
+
+* [SharpRaven](https://github.com/DejanMilicic/SharpRaven) - example of using RavenDB from F#
+
+---
+
+## Misc
+
+* [RavenDB LINQPad Driver](https://github.com/ronnieoverby/RavenDB-Linqpad-Driver)
