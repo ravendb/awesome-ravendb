@@ -19,3 +19,8 @@ A collection of awesome RavenDB resources
 ## Asp.Net
 
 * [RavenDB.AspNet.Identity](https://github.com/JudahGabriel/RavenDB.AspNet.Identity) - Identity provider for full .NET framework
+
+## Content Management Systems
+
+* [https://github.com/brickpile/brickpile](https://github.com/brickpile/brickpile) - lightweight CMS built on RavenDB and ASP.NET MVC 5
+
