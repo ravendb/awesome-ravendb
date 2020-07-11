@@ -10,6 +10,7 @@ A collection of awesome RavenDB resources
 ## Logging
 
 * [RavenDB.StructuredLog](https://github.com/JudahGabriel/RavenDB.StructuredLog) - Experimental structured logging framework for .NET Core, logs grouped and stored in Raven
+* [Serilog.Sinks.RavenDB](https://github.com/serilog/serilog-sinks-ravendb) - A Serilog sink that writes events as documents to RavenDB
 
 ## Migrations
 
