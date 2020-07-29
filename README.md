@@ -50,6 +50,10 @@ A collection of awesome RavenDB resources
 
 * [Ansible RavenDB Role](https://github.com/pogosoftware/ansible-role-ravendb)
 
+## Export / Import
+
+* [Prometheus exporter for RavenDB 4](https://github.com/marcinbudny/ravendb_exporter)
+
 ## Interesting Scenarios
 
 * [Throttling Outgoing Requests in Distributed Scenarios Using RavenDB](https://github.com/kamranayub/ravendb-throttling-outgoing-requests)
