@@ -61,7 +61,7 @@ A collection of awesome RavenDB resources
 ## Applications
 
 * [Snittlistan](https://github.com/dlidstrom/Snittlistan) - a small bowling network with statistics
-
+* [Freshlytics](https://github.com/ml054/freshlytics) - open source privacy-friendly analytics software. It aims to be reliable, friendly to use and easy to deploy
 ---
 
 ## Languages
