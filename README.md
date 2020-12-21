@@ -50,6 +50,9 @@ A collection of awesome RavenDB resources
 
 * [Ansible RavenDB Role](https://github.com/pogosoftware/ansible-role-ravendb)
 
+## Profiling
+* [MiniProfiler RavenDB Profiler](https://www.nuget.org/packages/MiniProfiler.Providers.RavenDB/)
+
 ## Export / Import
 
 * [Prometheus exporter for RavenDB 4](https://github.com/marcinbudny/ravendb_exporter)
