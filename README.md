@@ -71,6 +71,7 @@ A collection of awesome RavenDB resources
 ## Sample Applications
 
 * [RavenOverflow](https://github.com/PureKrome/RavenOverflow) - Sample clone of StackOverflow
+* [YABT](https://github.com/ravendb/samples-yabt) - Yet Another Bug Tracker
 ---
 
 ## Languages
