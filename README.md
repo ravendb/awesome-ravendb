@@ -9,19 +9,21 @@ A collection of awesome RavenDB resources
 * [RavenDBDependencyInjection.AspNetCore](https://github.com/njunior1980/RavenDBDependencyInjection.AspNetCore) - RavenDB Dependency Injection for ASP Net Core
 * [AspNetCore.Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks/tree/master/src/HealthChecks.RavenDB) - Asp.Net Core Healthcheck provider for RavenDB
 
-## Logging
+## Logging and Auditing
 
 * [RavenDB.StructuredLog](https://github.com/JudahGabriel/RavenDB.StructuredLog) - Experimental structured logging framework for .NET Core, logs grouped and stored in Raven
 * [Serilog.Sinks.RavenDB](https://github.com/serilog/serilog-sinks-ravendb) - A Serilog sink that writes events as documents to RavenDB
-* [Logging.Raven](https://github.com/jesuslpm/Logging.Raven) - RavenDB structured logging provider for .net core
+* [Logging.Raven](https://github.com/jesuslpm/Logging.Raven) - RavenDB structured logging provider for .net core  
+* [Audit.NET.RavenDB](https://github.com/ops-ai/Audit.NET.RavenDB) - RavenDB storage provider for Audit.NET
 
 ## Migrations
 
 * [RavenDB.Migrations](https://github.com/migrating-ravens/RavenMigrations) - Migration framework for RavenDB using .NET Core
 
-## Asp.Net
+## Asp.Net Identity
 
 * [RavenDB.AspNet.Identity](https://github.com/JudahGabriel/RavenDB.AspNet.Identity) - Identity provider for full .NET framework
+* [IdentityServer4.Contrib.RavenDB](https://github.com/ops-ai/IdentityServer4.Contrib.RavenDB) - IdentityServer 4 RavenDB stores
 * [IdentityServer4.RavenDB](https://github.com/TheKeyblader/IdentityServer4.RavenDB)
 
 ## Service Bus
@@ -52,6 +54,7 @@ A collection of awesome RavenDB resources
 * [Ansible RavenDB Role](https://github.com/pogosoftware/ansible-role-ravendb)
 
 ## Profiling
+
 * [MiniProfiler RavenDB Profiler](https://www.nuget.org/packages/MiniProfiler.Providers.RavenDB/)
 
 ## Export / Import
@@ -71,6 +74,7 @@ A collection of awesome RavenDB resources
 ## Sample Applications
 
 * [RavenOverflow](https://github.com/PureKrome/RavenOverflow) - Sample clone of StackOverflow
+* [YABT](https://github.com/ravendb/samples-yabt) - Yet Another Bug Tracker
 ---
 
 ## Languages
