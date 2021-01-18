@@ -7,6 +7,7 @@ A collection of awesome RavenDB resources
 * [RavenDB.Identity](https://github.com/JudahGabriel/RavenDB.Identity) - AspNetCore identity provider
 * [RavenDB.DependencyInjection](https://github.com/JudahGabriel/RavenDB.DependencyInjection) - DI injection for AspNetCore that configures Raven IDocumentStore from settings files
 * [RavenDBDependencyInjection.AspNetCore](https://github.com/njunior1980/RavenDBDependencyInjection.AspNetCore) - RavenDB Dependency Injection for ASP Net Core
+* [AspNetCore.Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks/tree/master/src/HealthChecks.RavenDB) - Asp.Net Core Healthcheck provider for RavenDB
 
 ## Logging
 
