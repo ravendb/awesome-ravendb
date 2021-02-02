@@ -29,6 +29,11 @@ A collection of awesome RavenDB resources
 ## Service Bus
 
 * [Rebus.RavenDb](https://github.com/rebus-org/Rebus.RavenDb) - RavenDB persistence for Rebus
+* [MassTransit.RavenDbIntegration](https://github.com/alexeyzimarev/MassTransit.RavenDbIntegration) RavenDB integration for MassTransit
+
+## Schedulers
+
+* [Hangfire](https://github.com/CadyIO/hangfire-ravendb) - RavenDB support for Hangfire
 
 ## Repository
 
