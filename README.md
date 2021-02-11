@@ -70,6 +70,11 @@ A collection of awesome RavenDB resources
 
 * [Throttling Outgoing Requests in Distributed Scenarios Using RavenDB](https://github.com/kamranayub/ravendb-throttling-outgoing-requests)
 
+## Open Discover® SDK
+
+* [Open Discover® SDK for .NET Code Examples](https://github.com/dotfurther/OpenDiscoverSDK)
+* [Case Study: Use of Open Discover® Platform and RavenDB document store in eDiscovery Early Case Assessment (ECA)](https://github.com/dotfurther/OpenDiscoverPlatformCaseStudy)
+
 ## Applications
 
 * [Snittlistan](https://github.com/dlidstrom/Snittlistan) - a small bowling network with statistics
