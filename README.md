@@ -23,6 +23,9 @@ A collection of awesome RavenDB resources
 ## Asp.Net Identity
 
 * [RavenDB.AspNet.Identity](https://github.com/JudahGabriel/RavenDB.AspNet.Identity) - Identity provider for full .NET framework
+
+## Identity Server 4
+
 * [IdentityServer4.Contrib.RavenDB](https://github.com/ops-ai/IdentityServer4.Contrib.RavenDB) - IdentityServer 4 RavenDB stores
 * [IdentityServer4.RavenDB](https://github.com/TheKeyblader/IdentityServer4.RavenDB)
 
