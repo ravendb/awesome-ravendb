@@ -66,6 +66,7 @@ A collection of awesome RavenDB resources
 ## DevOps
 
 * [Ansible RavenDB Role](https://github.com/pogosoftware/ansible-role-ravendb)
+* [Terraform provider for RavenDB](https://github.com/ravendb/terraform-provider-ravendb)
 
 ## Profiling
 
