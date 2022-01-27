@@ -67,6 +67,7 @@ A collection of awesome RavenDB resources
 
 * [Ansible RavenDB Role](https://github.com/pogosoftware/ansible-role-ravendb)
 * [Terraform provider for RavenDB](https://github.com/ravendb/terraform-provider-ravendb)
+* [Helm Chart for RavenDB](https://github.com/jonstelly/ravendb-chart)
 
 ## Profiling
 
