@@ -107,6 +107,7 @@ A collection of awesome RavenDB resources
 ### PHP  
 
 * [Corax](https://github.com/Realitaetsverlust/Corax) - RavenDB REST-API for PHP
+* [RavenDB PHP Client](https://github.com/ravendb/ravendb-php-client) - Official PHP client [UNDER DEVELOPMENT]
 
 ### F#
 
