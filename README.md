@@ -113,6 +113,10 @@ A collection of awesome RavenDB resources
 
 * [SharpRaven](https://github.com/DejanMilicic/SharpRaven) - example of using RavenDB from F#
 
+### Elixir
+
+* [Ravix](https://github.com/YgorCastor/ravix) - Elixir RavenDB client
+
 ---
 
 ## Misc
