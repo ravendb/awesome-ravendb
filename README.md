@@ -96,6 +96,10 @@ A collection of awesome RavenDB resources
 
 * [RavenOverflow](https://github.com/PureKrome/RavenOverflow) - Sample clone of StackOverflow
 * [YABT](https://github.com/ravendb/samples-yabt) - Yet Another Bug Tracker
+
+## Code Samples
+
+* [RavenDB Workshop](https://github.com/DejanMilicic/RavenWorkshop) - Code samples and features showcase from RavenDB Workshop
 ---
 
 ## Languages
@@ -103,10 +107,15 @@ A collection of awesome RavenDB resources
 ### PHP  
 
 * [Corax](https://github.com/Realitaetsverlust/Corax) - RavenDB REST-API for PHP
+* [RavenDB PHP Client](https://github.com/ravendb/ravendb-php-client) - Official PHP client [UNDER DEVELOPMENT]
 
 ### F#
 
 * [SharpRaven](https://github.com/DejanMilicic/SharpRaven) - example of using RavenDB from F#
+
+### Elixir
+
+* [Ravix](https://github.com/YgorCastor/ravix) - Elixir RavenDB client
 
 ---
 
