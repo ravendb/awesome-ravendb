@@ -96,6 +96,10 @@ A collection of awesome RavenDB resources
 
 * [RavenOverflow](https://github.com/PureKrome/RavenOverflow) - Sample clone of StackOverflow
 * [YABT](https://github.com/ravendb/samples-yabt) - Yet Another Bug Tracker
+
+## Code Samples
+
+* [RavenDB Workshop](https://github.com/DejanMilicic/RavenWorkshop) - Code samples and features showcase from RavenDB Workshop
 ---
 
 ## Languages
