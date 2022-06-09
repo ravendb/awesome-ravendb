@@ -116,6 +116,7 @@ A collection of awesome RavenDB resources
 ### Elixir
 
 * [Ravix](https://github.com/YgorCastor/ravix) - Elixir RavenDB client
+* [Ravix Ecto](https://github.com/YgorCastor/ravix-ecto) - An Ecto adapter for the Ravix RavenDB Driver
 
 ---
 
