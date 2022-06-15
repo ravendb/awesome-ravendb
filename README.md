@@ -48,6 +48,10 @@ A collection of awesome RavenDB resources
 
 * [SharpRepository](https://github.com/SharpRepository/SharpRepository) - C# Generic Repository for use with Entity Framework, RavenDB and more with built-in caching options
 
+## Visualization
+
+* [Grafana Plugin](https://github.com/ravendb/ravendb-grafana-datasource) - RavenDB Data Source Plugin for Grafana
+
 ## Libraries and Frameworks
 
 * [RavenDB-NodaTime](https://github.com/ryanheath/RavenDB-NodaTime) - Noda Time support for RavenDB
