@@ -13,7 +13,7 @@ A collection of awesome RavenDB resources
 * [RavenDB.StructuredLog](https://github.com/JudahGabriel/RavenDB.StructuredLog) - Experimental structured logging framework for .NET Core, logs grouped and stored in Raven
 * [Serilog.Sinks.RavenDB](https://github.com/serilog/serilog-sinks-ravendb) - A Serilog sink that writes events as documents to RavenDB
 * [Logging.Raven](https://github.com/jesuslpm/Logging.Raven) - RavenDB structured logging provider for .net core  
-* [Audit.NET.RavenDB](https://github.com/ops-ai/Audit.NET.RavenDB) - RavenDB storage provider for Audit.NET
+* [Audit.NET.RavenDB](https://github.com/thepirat000/Audit.NET/tree/master/src/Audit.NET.RavenDB) - RavenDB storage provider for Audit.NET ([previous version](https://github.com/ops-ai/Audit.NET.RavenDB))
 
 ## Migrations
 
