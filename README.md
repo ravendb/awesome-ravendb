@@ -113,6 +113,10 @@ A collection of awesome RavenDB resources
 * [Corax](https://github.com/Realitaetsverlust/Corax) - RavenDB REST-API for PHP
 * [RavenDB PHP Client](https://github.com/ravendb/ravendb-php-client) - Official PHP client [UNDER DEVELOPMENT]
 
+### NodeJS
+
+* [Fastify](https://github.com/nearform/fastify-ravendb) - Fastify RavenDB plugin
+
 ### F#
 
 * [SharpRaven](https://github.com/DejanMilicic/SharpRaven) - example of using RavenDB from F#
