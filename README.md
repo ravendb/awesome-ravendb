@@ -108,10 +108,14 @@ A collection of awesome RavenDB resources
 
 ## Languages
 
+### .Net
+
+* [Official Client](https://www.nuget.org/packages/RavenDB.Client/) ([source](https://github.com/ravendb/ravendb/tree/v5.4/src/Raven.Client))
+
 ### PHP  
 
 * [Corax](https://github.com/Realitaetsverlust/Corax) - RavenDB REST-API for PHP
-* [RavenDB PHP Client](https://packagist.org/packages/ravendb/ravendb-php-client) ([source](https://github.com/ravendb/ravendb-php-client)) - Official PHP client
+* [Official Client](https://packagist.org/packages/ravendb/ravendb-php-client) ([source](https://github.com/ravendb/ravendb-php-client))
 
 ### NodeJS
 
