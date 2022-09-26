@@ -147,6 +147,10 @@ A collection of awesome RavenDB resources
 
 * Official Client ([source](https://github.com/ravendb/ravendb-cpp-client))
 
+### Go
+
+* [Official Client](https://pkg.go.dev/github.com/ravendb/ravendb-go-client) ([source](https://github.com/ravendb/ravendb-go-client))
+
 ---
 
 ## Misc
