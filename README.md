@@ -119,6 +119,7 @@ A collection of awesome RavenDB resources
 
 ### NodeJS
 
+* [Official Client](https://www.npmjs.com/package/ravendb) ([source](https://github.com/ravendb/ravendb-nodejs-client))
 * [Fastify](https://github.com/nearform/fastify-ravendb) - Fastify RavenDB plugin
 
 ### F#
