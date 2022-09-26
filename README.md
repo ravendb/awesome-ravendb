@@ -114,7 +114,7 @@ A collection of awesome RavenDB resources
 
 ### JVM
 
-* * [Official Client](https://mvnrepository.com/artifact/net.ravendb/ravendb) ([source](https://github.com/ravendb/ravendb-jvm-client))
+* [Official Client](https://mvnrepository.com/artifact/net.ravendb/ravendb) ([source](https://github.com/ravendb/ravendb-jvm-client))
 
 ### PHP  
 
