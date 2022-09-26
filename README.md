@@ -126,6 +126,10 @@ A collection of awesome RavenDB resources
 * [Official Client](https://www.npmjs.com/package/ravendb) ([source](https://github.com/ravendb/ravendb-nodejs-client))
 * [Fastify](https://github.com/nearform/fastify-ravendb) - Fastify RavenDB plugin
 
+### Python
+
+* [Official Client](https://pypi.org/project/pyravendb/) ([source](https://github.com/ravendb/ravendb-python-client))
+
 ### F#
 
 * [SharpRaven](https://github.com/DejanMilicic/SharpRaven) - example of using RavenDB from F#
