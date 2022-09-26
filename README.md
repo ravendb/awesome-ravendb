@@ -112,6 +112,10 @@ A collection of awesome RavenDB resources
 
 * [Official Client](https://www.nuget.org/packages/RavenDB.Client/) ([source](https://github.com/ravendb/ravendb/tree/v5.4/src/Raven.Client))
 
+### JVM
+
+* * [Official Client](https://mvnrepository.com/artifact/net.ravendb/ravendb) ([source](https://github.com/ravendb/ravendb-jvm-client))
+
 ### PHP  
 
 * [Corax](https://github.com/Realitaetsverlust/Corax) - RavenDB REST-API for PHP
