@@ -126,6 +126,10 @@ A collection of awesome RavenDB resources
 * [Ravix](https://github.com/YgorCastor/ravix) - Elixir RavenDB client
 * [Ravix Ecto](https://github.com/YgorCastor/ravix-ecto) - An Ecto adapter for the Ravix RavenDB Driver
 
+### Rust
+
+* [Client](https://github.com/advanced-data-machines/ravendb) - Community contribution: RavenDB Rust client
+
 ---
 
 ## Misc
