@@ -143,6 +143,10 @@ A collection of awesome RavenDB resources
 
 * [Client](https://github.com/advanced-data-machines/ravendb) - Community contribution: RavenDB Rust client
 
+### C++
+
+* Official Client ([source](https://github.com/ravendb/ravendb-cpp-client))
+
 ---
 
 ## Misc
