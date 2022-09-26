@@ -108,14 +108,27 @@ A collection of awesome RavenDB resources
 
 ## Languages
 
+### .Net
+
+* [Official Client](https://www.nuget.org/packages/RavenDB.Client/) ([source](https://github.com/ravendb/ravendb/tree/v5.4/src/Raven.Client))
+
+### JVM
+
+* [Official Client](https://mvnrepository.com/artifact/net.ravendb/ravendb) ([source](https://github.com/ravendb/ravendb-jvm-client))
+
 ### PHP  
 
 * [Corax](https://github.com/Realitaetsverlust/Corax) - RavenDB REST-API for PHP
-* [RavenDB PHP Client](https://github.com/ravendb/ravendb-php-client) - Official PHP client [UNDER DEVELOPMENT]
+* [Official Client](https://packagist.org/packages/ravendb/ravendb-php-client) ([source](https://github.com/ravendb/ravendb-php-client))
 
 ### NodeJS
 
+* [Official Client](https://www.npmjs.com/package/ravendb) ([source](https://github.com/ravendb/ravendb-nodejs-client))
 * [Fastify](https://github.com/nearform/fastify-ravendb) - Fastify RavenDB plugin
+
+### Python
+
+* [Official Client](https://pypi.org/project/pyravendb/) ([source](https://github.com/ravendb/ravendb-python-client))
 
 ### F#
 
@@ -129,6 +142,14 @@ A collection of awesome RavenDB resources
 ### Rust
 
 * [Client](https://github.com/advanced-data-machines/ravendb) - Community contribution: RavenDB Rust client
+
+### C++
+
+* Official Client ([source](https://github.com/ravendb/ravendb-cpp-client))
+
+### Go
+
+* [Official Client](https://pkg.go.dev/github.com/ravendb/ravendb-go-client) ([source](https://github.com/ravendb/ravendb-go-client))
 
 ---
 
