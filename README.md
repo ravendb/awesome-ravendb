@@ -151,6 +151,10 @@ A collection of awesome RavenDB resources
 
 * [Official Client](https://pkg.go.dev/github.com/ravendb/ravendb-go-client) ([source](https://github.com/ravendb/ravendb-go-client))
 
+### Ruby
+
+* [Official Client WIP](https://github.com/ravendb/ravendb-ruby-client)
+
 ---
 
 ## Misc
