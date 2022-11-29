@@ -115,11 +115,13 @@ A collection of awesome RavenDB resources
 ### JVM
 
 * [Official Client](https://mvnrepository.com/artifact/net.ravendb/ravendb) ([source](https://github.com/ravendb/ravendb-jvm-client))
+* [Sample Java app](https://github.com/ravendb/samples-jvm)
 
 ### PHP  
 
 * [Corax](https://github.com/Realitaetsverlust/Corax) - RavenDB REST-API for PHP
 * [Official Client](https://packagist.org/packages/ravendb/ravendb-php-client) ([source](https://github.com/ravendb/ravendb-php-client))
+* [Sample Laravel app](https://github.com/ravendb/samples-php-laravel)
 
 ### NodeJS
 
