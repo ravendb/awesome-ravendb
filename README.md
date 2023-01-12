@@ -66,6 +66,7 @@ A collection of awesome RavenDB resources
 ## Content Management Systems
 
 * [https://github.com/brickpile/brickpile](https://github.com/brickpile/brickpile) - lightweight CMS built on RavenDB and ASP.NET MVC 5
+* [https://www.npmjs.com/package/gatsby-source-ravendb](https://www.npmjs.com/package/gatsby-source-ravendb) - A source plugin for pulling data from RavenDB documents into a Gatsby application
 
 ## DevOps
 
