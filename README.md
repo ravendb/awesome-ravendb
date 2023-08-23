@@ -154,7 +154,7 @@ A collection of awesome RavenDB resources
 
 * [Corax](https://github.com/Realitaetsverlust/Corax) - RavenDB REST-API for PHP
 * [Official Client](https://packagist.org/packages/ravendb/ravendb-php-client) ([source](https://github.com/ravendb/ravendb-php-client))
-* [Sample Laravel app](https://github.com/ravendb/samples-php-laravel)
+* [Sample Laravel app](https://github.com/ravendb/samples-php-laravel) ![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fravendb%2Fsamples-php-laravel%2Fmaster%2Fcomposer.json&query=%24.require%5B'ravendb%2Fravendb-php-client'%5D&label=ravendb%2Fravendb-php-client)
 
 ### NodeJS
 
