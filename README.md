@@ -159,7 +159,7 @@ A collection of awesome RavenDB resources
 ### NodeJS
 
 * [Official Client](https://www.npmjs.com/package/ravendb) ([source](https://github.com/ravendb/ravendb-nodejs-client))
-* [Fastify](https://github.com/nearform/fastify-ravendb) - Fastify RavenDB plugin
+* [Fastify](https://github.com/nearform/fastify-ravendb) ![](https://img.shields.io/github/package-json/dependency-version/nearform/fastify-ravendb/dev/ravendb?color=blue) - Fastify RavenDB plugin
 
 ### Python
 
@@ -167,7 +167,7 @@ A collection of awesome RavenDB resources
 
 ### F#
 
-* [SharpRaven](https://github.com/DejanMilicic/SharpRaven) - example of using RavenDB from F#
+* [SharpRaven](https://github.com/DejanMilicic/SharpRaven) ![](https://img.shields.io/badge/dynamic/xml?url=https://raw.githubusercontent.com/DejanMilicic/SharpRaven/master/SharpRaven/SharpRaven/SharpRaven.fsproj&query=string(//PackageReference%5B@Include=%27RavenDB.Client%27%5D/@Version)&prefix=v&label=RavenDB) - example of using RavenDB from F#
 
 ### Elixir
 
