@@ -54,6 +54,7 @@ A collection of awesome RavenDB resources
 
 ## Libraries and Frameworks
 
+* [CollectionMapper.RavenDB.NetCore](https://github.com/elixneto/CollectionMapper.RavenDB.NetCore) - An easy way to map your entities classes to RavenDB collections for .NET applications
 * [RavenDB-NodaTime](https://github.com/ryanheath/RavenDB-NodaTime) - Noda Time support for RavenDB
 * [Quartz.NET-RavenDB](https://github.com/ravendb/quartznet-RavenDB) - RavenDB JobStore support for Quartz.NET scheduler
 * [NServiceBus.RavenDB](https://github.com/Particular/NServiceBus.RavenDB) - The official NServiceBus persistence implementation for RavenDB
