@@ -2,6 +2,10 @@
 
 A collection of awesome RavenDB resources
 
+## Azure
+
+* [RavenDb .NET Core Accelerator for POC Projects with Azure Container Apps](https://github.com/kdcllc/ravendb-donet-accelerator) - A complete accelerator for Proof of Concept (POC) projects using RavenDB and ASP.NET Core, deployed with Azure Container Apps. [Blog post](https://tech.kingdavidconsulting.com/deploying-ravendb-accelerator-to-azure-container-apps-using-azd-up)
+
 ## Asp.Net Core
 
 * [RavenDB.DependencyInjection](https://github.com/JudahGabriel/RavenDB.DependencyInjection) - DI injection for AspNetCore that configures Raven IDocumentStore from settings files
