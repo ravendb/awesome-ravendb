@@ -39,10 +39,11 @@ A collection of awesome RavenDB resources
 
 * [Finbuckle.RavenDB](https://github.com/mcrio/Mcrio.Finbuckle.MultiTenant.RavenDb.Store) - mcrio's RavenDB Store implementation 
 
-## Service Bus
+## Service Bus / Messaging
 
 * [Rebus.RavenDb](https://github.com/rebus-org/Rebus.RavenDb) - RavenDB persistence for Rebus
-* [MassTransit.RavenDbIntegration](https://github.com/alexeyzimarev/MassTransit.RavenDbIntegration) RavenDB integration for MassTransit
+* [MassTransit.RavenDbIntegration](https://github.com/alexeyzimarev/MassTransit.RavenDbIntegration) - RavenDB integration for MassTransit
+* [Wolverine](https://github.com/JasperFx/wolverine/tree/main/src/Persistence/Wolverine.RavenDb) - RavenDB persistence for Wolverine
 
 ## Schedulers
 
